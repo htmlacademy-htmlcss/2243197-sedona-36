@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Катя Котова](https://up.htmlacademy.ru/htmlcss/36/user/2243197).
-* Наставник: `Неизвестно`.
+* Наставник: `Татьяна Симоненко` (https://htmlacademy.ru/profile/tatien).
 
 ---
 
